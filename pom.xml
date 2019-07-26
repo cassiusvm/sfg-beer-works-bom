@@ -25,7 +25,7 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.github.sfg-beer-works</groupId>
+    <groupId>sfg.beerworks</groupId>
     <artifactId>sfg-beer-works-bom</artifactId>
     <version>1.0.12-SNAPSHOT</version>
     <packaging>pom</packaging>
